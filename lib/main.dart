@@ -24,6 +24,7 @@ class SnakeGame extends StatefulWidget {
 class _SnakeGameState extends State<SnakeGame> {
   final rowscreen = 20;
   final colscreen = 40;
+  final no = 12;
   final random = Random();
   final fontStyle = TextStyle(
     color: Colors.white,
