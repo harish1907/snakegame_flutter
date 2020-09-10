@@ -25,7 +25,6 @@ class _SnakeGameState extends State<SnakeGame> {
   final rowscreen = 20;
   final colscreen = 40;
   final random = Random();
-  var coller = Colors.white;
   final fontStyle = TextStyle(
     color: Colors.white,
     fontSize: 20.0,
